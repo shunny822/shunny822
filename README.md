@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=200&section=header&text=Hi%20I'm%20Suhyun🐣💜&animation=blinking&fontSize=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=200&section=header&text=Hi%20I'm%20Suhyun🐣💜&fontSize=50&fontAlignY=40)
 
-### 🌱 Started at 22.12.26
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=suhyun9252)](https://solved.ac/suhyun9252/)
+### 🌱 Started at 22.12.26 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=suhyun9252)](https://solved.ac/suhyun9252/)
 
 <br>
 
