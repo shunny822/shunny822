@@ -8,7 +8,7 @@
  
   __I worked as a nurse at Asan Medical Center(~ 22.06.30).__
   
-  __Currently, I'm interested in SW, want to be SW developer.__
+  __Currently, I'm interested in SW, wanna be a SW developer.__
   
  
   
