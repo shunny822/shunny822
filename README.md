@@ -4,7 +4,7 @@
  
   ## ✨ About Me 🙋‍♀️✨
   
-  __My name is Suhyun Choe, my MBTI is ENTJ.__
+  __My name is Suhyun Choe, and my MBTI is ENTJ.__
  
   __I worked as a nurse at Asan Medical Center(~ 22.06.30).__
   
