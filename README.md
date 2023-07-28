@@ -10,7 +10,7 @@
   
   __But now I'm interested in programming,__
  
-  __and wanna be a Backend developer.__
+  __and hope to be a Backend developer.__
  
 <br>
  
