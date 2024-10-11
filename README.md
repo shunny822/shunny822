@@ -19,8 +19,8 @@
   ### 📜 History
 
   <ul>
-   <li>삼성 청년 SW 아카데미 (SSAFY) 12기 / 2024.07.2 ~ </li>
-   <li>네이버 부스트캠프 웹·모바일 8기 / 2023.07.10 ~ 2023.12.15</li>
+   <li><b>삼성 청년 SW 아카데미 (SSAFY) 12기</b> / 2024.07.02 ~ </li>
+   <li><b>네이버 부스트캠프 웹·모바일 8기</b> / 2023.07.10 ~ 2023.12.15</li>
    <li>멀티캠퍼스 [멀티잇] 풀스택 개발자 취업캠프(Python) / 2022.12.26 ~ 2023.06.16</li>
    <li>서울아산병원 근무 / 2020.05 ~ 2022.06</li>
    <li>전북대학교 간호학과 / 2016.03 ~ 2020.02</li>
@@ -71,4 +71,9 @@
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshunny822&count_bg=%23ACB6F5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+  <br>
+  
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/shunny822"/>
+  </a>
 </div>
