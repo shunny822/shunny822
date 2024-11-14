@@ -4,7 +4,7 @@
 
   ## ✨ About Me 🙋‍♀️ ✨
   
-  __My name is Suhyun Choe. I worked as a nurse at AMC(~ 22.06.30).__
+  __I worked as a nurse at AMC(~ 22.06.30).__
   
   __But now I'm interested in backend development, so I'm studying this field.__
 
@@ -22,7 +22,6 @@
    <li><b>삼성 청년 SW 아카데미 (SSAFY) 12기</b> / 2024.07.02 ~ </li>
    <li><b>네이버 부스트캠프 웹·모바일 8기</b> / 2023.07.10 ~ 2023.12.15</li>
    <li>서울아산병원 근무 / 2020.05 ~ 2022.06</li>
-   <li>전북대학교 간호학과 / 2016.03 ~ 2020.02</li>
   </ul>
 
   <br>
@@ -65,10 +64,6 @@
   <br>
   
   ### 🔖 Stat
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhyun9252)](https://solved.ac/suhyun9252/)
-
-  [![Suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunny822&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshunny822&count_bg=%23ACB6F5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
